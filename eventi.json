@@ -21,25 +21,6 @@
         "note": "Pranzo al sacco.\r\nGPX cambiato 24/6\r\nDislivello 890 mt"
     },
     {
-        "titolo": "MOTTARONE",
-        "data": "20/06/2026",
-        "ora": "09:00",
-        "localita": "Armeno",
-        "ritrovo": "https://maps.app.goo.gl/kTheBPtDQUFUBe19A",
-        "partecipanti": "Ian, Walter, Doc",
-        "proponente": "Ian",
-        "wa_proponente": "",
-        "link": "https://www.komoot.com/it-it/tour/2188308197",
-        "video": "https://youtu.be/p1XCbqX_6eo",
-        "gpx": "gpx/2025-04-25_2188308197_Mottarone__giro_alternativo.gpx",
-        "logo": "immagini/mottarone2.jpg",
-        "difficolta": "s3",
-        "note": "Ritrovo al parcheggio del cimitero: Viale Luigi Cadorna, 21 - 28011 Armeno NO",
-        "partecipanti_wa": {
-            "Doc": "3938500804"
-        }
-    },
-    {
         "titolo": "FESTA MONTE ZEDA",
         "data": "28/06/2026",
         "ora": "11:00",
