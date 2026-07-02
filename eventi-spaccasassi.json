@@ -1,5 +1,26 @@
 [
     {
+        "titolo": "Sando Bikepark",
+        "data": "05/07/2026",
+        "ora": "09.00",
+        "localita": "Sandomenico",
+        "ritrovo": "https://maps.app.goo.gl/b8WozqGgr3A31Vjd8",
+        "partecipanti": "Andrea",
+        "proponente": "Andrea",
+        "wa_proponente": "3479789934",
+        "link": "",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "https://sandobikepark.com/",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "",
+        "logo": "immagini/Gemini_Generated_Image_xeqrtqxeqrtqxeqr.png",
+        "difficolta": "s3",
+        "note": ""
+    },
+    {
         "titolo": "DEVERO",
         "data": "27/06/2026",
         "ora": "09:00",
