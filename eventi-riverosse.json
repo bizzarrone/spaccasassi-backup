@@ -61,21 +61,6 @@
         "note": "Idea di fare 3 discese e rientrare verso le 13 circa"
     },
     {
-        "titolo": "Fenera - Motto della capretta",
-        "data": "30/05/2026",
-        "ora": "08:45",
-        "localita": "Grignasco",
-        "ritrovo": "https://maps.app.goo.gl/TjCHzhTECZK1iryA7",
-        "partecipanti": "Tommaso, Dany, Giorgio, Ildany, Ranieri, Angelino, Francesco",
-        "proponente": "Tommaso",
-        "wa_proponente": "+393393919739",
-        "link": "",
-        "video": "",
-        "gpx": "gpx/Fenera_Motto_della_capretta.gpx",
-        "logo": "",
-        "note": "Ritrovo al cimitero di Grignasco ore 8:45 inizio giro ore 9\r\n24 km 1060 metri di dislivello circa\r\nItinerario : Grignasco - grotte di ara - vetta fenera - trasferimento al motto della capretta - rientro a Grignasco 11:30 circa ( vetta bonus in base al tempo cima pelosa)."
-    },
-    {
         "titolo": "Tour delle Rive Rosse",
         "data": "17/05/2026",
         "ora": "9.00",
@@ -95,6 +80,21 @@
         "logo": "https://drive.google.com/file/d/1Zdynigl2rhIWeoYJ967qRpfcQyriHfD8/view?usp=drive_link",
         "difficolta": "s2",
         "note": "Super Tour delle Rive Rosse.\r\nPartenza da Masserano via collegio , 5\r\n- Trail Academy - Difficoltà mix rosso/blu\r\n- Free ride Rongio - Difficoltà Blu\r\n- Trail dei pini - Difficoltà Blu\r\n- Super Vulcano - Difficoltà Blu\r\n- La Pignola - Difficoltà Blu\r\n- Vergnago - Difficoltà mix blu/rosso\r\n- M41 pinetina - Difficoltà mix rosso/blu"
+    },
+    {
+        "titolo": "Fenera - Motto della capretta",
+        "data": "30/05/2026",
+        "ora": "08:45",
+        "localita": "Grignasco",
+        "ritrovo": "https://maps.app.goo.gl/TjCHzhTECZK1iryA7",
+        "partecipanti": "Tommaso, Dany, Giorgio, Ildany, Ranieri, Angelino, Francesco",
+        "proponente": "Tommaso",
+        "wa_proponente": "+393393919739",
+        "link": "",
+        "video": "",
+        "gpx": "gpx/Fenera_Motto_della_capretta.gpx",
+        "logo": "",
+        "note": "Ritrovo al cimitero di Grignasco ore 8:45 inizio giro ore 9\r\n24 km 1060 metri di dislivello circa\r\nItinerario : Grignasco - grotte di ara - vetta fenera - trasferimento al motto della capretta - rientro a Grignasco 11:30 circa ( vetta bonus in base al tempo cima pelosa)."
     },
     {
         "titolo": "Inaugurazione Giset Rive Rosse",
