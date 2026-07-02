@@ -82,21 +82,6 @@
         "note": "Idea di fare 3 discese e rientrare verso le 13 circa"
     },
     {
-        "titolo": "Fenera - Motto della capretta",
-        "data": "30/05/2026",
-        "ora": "08:45",
-        "localita": "Grignasco",
-        "ritrovo": "https://maps.app.goo.gl/TjCHzhTECZK1iryA7",
-        "partecipanti": "Tommaso, Dany, Giorgio, Ildany, Ranieri, Angelino, Francesco",
-        "proponente": "Tommaso",
-        "wa_proponente": "+393393919739",
-        "link": "",
-        "video": "",
-        "gpx": "gpx/Fenera_Motto_della_capretta.gpx",
-        "logo": "",
-        "note": "Ritrovo al cimitero di Grignasco ore 8:45 inizio giro ore 9\r\n24 km 1060 metri di dislivello circa\r\nItinerario : Grignasco - grotte di ara - vetta fenera - trasferimento al motto della capretta - rientro a Grignasco 11:30 circa ( vetta bonus in base al tempo cima pelosa)."
-    },
-    {
         "titolo": "Inaugurazione Giset Rive Rosse",
         "data": "25/04/2026",
         "ora": "09.00",
@@ -110,6 +95,21 @@
         "gpx": "gpx/Andata_e_ritorno_Masserano.gpx",
         "logo": "https://drive.google.com/file/d/1gE8zGeBTM-7mo5fbhvfjIiKILP5yf2Vg/view?usp=drivesdk",
         "note": "Tour itinerante lungo svariati trail delle Rive Rosse.\r\nPartiamo dal Trail Academy, passiamo dalla fontana di Cacciano a riempire le borracce poi saliamo a frazione Rongio dove imbocchiamo il FreeRide che porta a Rongetto.\r\nPassiamo a fianco al Belgiardino e saliamo alla Madonna degli angeli per imboccare il Trail dei Pini.\r\nAndiamo fino alla PANCHINA  per imboccare la iconica SuperVulcano.\r\nDopo la risalita ci aspetta una bella vista panoramica sulla diga di Asei per proseguire sul trail Pignola nome preso dal suo tracciatore.\r\nAdesso siamo ai tral strorici come Vergnago ed M41 che ci fanno chiudere in bellezza questo fantastico giro delle Rive Rosse.\r\nBirretta in compagnia per smaltire adrenalina e condividere seduti ad un tavolo..."
+    },
+    {
+        "titolo": "Fenera - Motto della capretta",
+        "data": "30/05/2026",
+        "ora": "08:45",
+        "localita": "Grignasco",
+        "ritrovo": "https://maps.app.goo.gl/TjCHzhTECZK1iryA7",
+        "partecipanti": "Tommaso, Dany, Giorgio, Ildany, Ranieri, Angelino, Francesco",
+        "proponente": "Tommaso",
+        "wa_proponente": "+393393919739",
+        "link": "",
+        "video": "",
+        "gpx": "gpx/Fenera_Motto_della_capretta.gpx",
+        "logo": "",
+        "note": "Ritrovo al cimitero di Grignasco ore 8:45 inizio giro ore 9\r\n24 km 1060 metri di dislivello circa\r\nItinerario : Grignasco - grotte di ara - vetta fenera - trasferimento al motto della capretta - rientro a Grignasco 11:30 circa ( vetta bonus in base al tempo cima pelosa)."
     },
     {
         "titolo": "Rive Rosse",
