@@ -1,36 +1,12 @@
 [
     {
-        "titolo": "Test WA",
-        "data": "10/03/2026",
-        "ora": "09:00",
-        "localita": "Como",
-        "ritrovo": "",
-        "partecipanti": "Mario, Luigi",
-        "partecipanti_wa": {
-            "Mario": "393331111111"
-        },
-        "proponente": "",
-        "wa_proponente": "",
-        "link": "",
-        "link_label": "",
-        "link_icon": "",
-        "link2": "",
-        "link2_label": "",
-        "link2_icon": "",
-        "video": "",
-        "gpx": "",
-        "logo": "",
-        "difficolta": "",
-        "note": "",
-        "id": "e615aadcb0132"
-    },
-    {
         "titolo": "Sando Bikepark",
         "data": "05/07/2026",
         "ora": "09.00",
         "localita": "Sandomenico",
         "ritrovo": "https://maps.app.goo.gl/b8WozqGgr3A31Vjd8",
-        "partecipanti": "Andrea B., Luca B.",
+        "partecipanti": "Andrea B.",
+        "partecipanti_wa": [],
         "proponente": "Andrea B.",
         "wa_proponente": "3479789934",
         "link": "",
