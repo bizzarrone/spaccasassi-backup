@@ -1,5 +1,24 @@
 [
     {
+        "titolo": "Con GPX",
+        "data": "",
+        "ora": "",
+        "localita": "",
+        "ritrovo": "",
+        "partecipanti": "",
+        "proponente": "",
+        "wa_proponente": "",
+        "link": "",
+        "link_label": "",
+        "link2": "",
+        "link2_label": "",
+        "video": "",
+        "gpx": "gpx/6a478af72ce977.51801450_test2.gpx",
+        "logo": "",
+        "difficolta": "",
+        "note": ""
+    },
+    {
         "titolo": "Test Sentiero",
         "data": "10/03/2026",
         "ora": "",
