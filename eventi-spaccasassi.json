@@ -48,28 +48,6 @@
         "id": "ecf9194a01c2d"
     },
     {
-        "titolo": "Valsassina",
-        "data": "05/07/2026",
-        "ora": "09:00",
-        "localita": "Como",
-        "ritrovo": "",
-        "partecipanti": "Michele, Gaia",
-        "proponente": "Gaia",
-        "wa_proponente": "",
-        "link": "",
-        "link_label": "Komoot",
-        "link_icon": "immagini/komoot-logo.jpg",
-        "link2": "",
-        "link2_label": "TRAILMAPS",
-        "link2_icon": "immagini/trailmaps.png",
-        "video": "",
-        "gpx": "gpx/piani-di-artavaggio-val-taleggio-valsassina.gpx",
-        "logo": "immagini/rifugio-nicola.jpg",
-        "difficolta": "s1",
-        "note": "",
-        "id": "efe5cabff7ea5"
-    },
-    {
         "titolo": "Alpe Sacchi",
         "data": "04/07/2026",
         "ora": "08:45",
