@@ -1,26 +1,5 @@
 [
     {
-        "titolo": "Sando Bikepark",
-        "data": "05/07/2026",
-        "ora": "09.00",
-        "localita": "Sandomenico",
-        "ritrovo": "https://maps.app.goo.gl/b8WozqGgr3A31Vjd8",
-        "partecipanti": "Andrea",
-        "proponente": "Andrea",
-        "wa_proponente": "3479789934",
-        "link": "",
-        "link_label": "Komoot",
-        "link_icon": "immagini/komoot-logo.jpg",
-        "link2": "https://sandobikepark.com/",
-        "link2_label": "LINK ESTERNO",
-        "link2_icon": "🔗",
-        "video": "",
-        "gpx": "",
-        "logo": "immagini/Gemini_Generated_Image_xeqrtqxeqrtqxeqr.png",
-        "difficolta": "s3",
-        "note": ""
-    },
-    {
         "titolo": "Valsassina",
         "data": "05/07/2026",
         "ora": "09:00",
@@ -39,6 +18,7 @@
         "gpx": "gpx/piani-di-artavaggio-val-taleggio-valsassina.gpx",
         "logo": "immagini/rifugio-nicola.jpg",
         "difficolta": "s1",
-        "note": ""
+        "note": "",
+        "id": "efe5cabff7ea5"
     }
 ]
