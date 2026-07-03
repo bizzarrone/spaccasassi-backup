@@ -5,8 +5,10 @@
         "ora": "09.00",
         "localita": "Sandomenico",
         "ritrovo": "https://maps.app.goo.gl/b8WozqGgr3A31Vjd8",
-        "partecipanti": "Andrea B.",
-        "partecipanti_wa": [],
+        "partecipanti": "",
+        "partecipanti_wa": {
+            "Andrea B.": "3479789934"
+        },
         "proponente": "Andrea B.",
         "wa_proponente": "3479789934",
         "link": "",
