@@ -1,5 +1,24 @@
 [
     {
+        "titolo": "Test Sentiero",
+        "data": "10/03/2026",
+        "ora": "",
+        "localita": "Como",
+        "ritrovo": "",
+        "partecipanti": "",
+        "proponente": "Mario",
+        "wa_proponente": "",
+        "link": "",
+        "link_label": "",
+        "link2": "",
+        "link2_label": "",
+        "video": "",
+        "gpx": "",
+        "logo": "",
+        "difficolta": "",
+        "note": ""
+    },
+    {
         "titolo": "Sando Bikepark",
         "data": "05/07/2026",
         "ora": "09.00",
