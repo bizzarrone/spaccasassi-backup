@@ -1,28 +1,5 @@
 [
     {
-        "titolo": "Artavaggio sunshine",
-        "data": "05/07/2026",
-        "ora": "07.45",
-        "localita": "Moggio",
-        "ritrovo": "https://maps.app.goo.gl/Gxoe933qKyYoVKpn9",
-        "partecipanti": "Alessandro, Michele, Gaiuccia",
-        "partecipanti_wa": [],
-        "proponente": "Gaiuccia",
-        "wa_proponente": "",
-        "link": "https://www.komoot.it/tour/3081956218?ref=aso&share_token=aBxb7mnkGjd80T6yv8XPbI1zPpQaN11Lyo6KVqEZavl7F97ky5&t_s=referral&t_cid=route_share",
-        "link_label": "",
-        "link_icon": "",
-        "link2": "",
-        "link2_label": "",
-        "link2_icon": "",
-        "video": "",
-        "gpx": "gpx/piani-di-artavaggio-val-taleggio-valsassina.gpx",
-        "logo": "immagini/rifugio-nicola.jpg",
-        "difficolta": "s1",
-        "note": "Giro XC panoramico che si svolge principalmente su sterrati, jeeppabili e strade a bassa percorrenza.\r\nIdeale per chi vuole rifarsi gli occhi e farsi la gamba.",
-        "id": "ede70f95237bf"
-    },
-    {
         "titolo": "Sando Bikepark",
         "data": "05/07/2026",
         "ora": "09.00",
