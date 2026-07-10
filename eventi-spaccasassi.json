@@ -1,5 +1,30 @@
 [
     {
+        "titolo": "Como Park",
+        "data": "11/07/2026",
+        "ora": "10:30",
+        "localita": "Cucciago",
+        "ritrovo": "https://maps.app.goo.gl/7LUMze8tYtoUNDHX9?g_st=iw",
+        "partecipanti": "Luca C., Andrea, Gio, Davide",
+        "partecipanti_wa": {
+            "Luca C.": "393356330223"
+        },
+        "proponente": "Luca C.",
+        "wa_proponente": "3356330223",
+        "link": "",
+        "link_label": "",
+        "link_icon": "",
+        "link2": "",
+        "link2_label": "",
+        "link2_icon": "",
+        "video": "https://www.youtube.com/watch?v=EU8jxsH28Q8",
+        "gpx": "gpx/bike-park-cucciago-revisited.gpx",
+        "logo": "immagini/cucciago_small.png",
+        "difficolta": "s2",
+        "note": "",
+        "id": "e8d740899a3c6"
+    },
+    {
         "titolo": "Artavaggio",
         "data": "10/07/2026",
         "ora": "09:00",
