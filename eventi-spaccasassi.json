@@ -1,5 +1,30 @@
 [
     {
+        "titolo": "Valtournenche: Vista sul Cervino, ex Ferrovia del Cervino",
+        "data": "17/07/2026",
+        "ora": "10:00",
+        "localita": "Le Loz",
+        "ritrovo": "https://maps.app.goo.gl/E58fhLVR5fkAv32MA",
+        "partecipanti": "Luca C.",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Luca C.",
+        "wa_proponente": "3356330223",
+        "link": "https://www.komoot.com/it-it/smarttour/37822499",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "gpx/2026-07-12_3106175689_GPX_Download__Vista_sul_Cervino_____Ex_Ferrovia_del_Cervino_giro_ad_anello_con_partenza_da_Le_Loz.gpx",
+        "logo": "immagini/0.webp",
+        "difficolta": "s2",
+        "note": "Mai fatto. Traccia ricavata da Komoot",
+        "id": "ed91ffc3016df"
+    },
+    {
         "titolo": "Como Park",
         "data": "11/07/2026",
         "ora": "10:30",
