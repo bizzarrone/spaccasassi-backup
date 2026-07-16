@@ -1,5 +1,22 @@
 [
     {
+        "titolo": "MADESIMO",
+        "data": "21/06/2026",
+        "ora": "09:45",
+        "localita": "Madesimo",
+        "ritrovo": "",
+        "partecipanti": "Luca B.",
+        "proponente": "Luca B.",
+        "wa_proponente": "",
+        "link": "",
+        "video": "",
+        "gpx": "",
+        "logo": "immagini/madesimo_downhill_7-e1704445802981.webp",
+        "difficolta": "s3",
+        "note": "",
+        "id": "ed4a8038a6f17"
+    },
+    {
         "titolo": "Valtournenche: Vista sul Cervino, ex Ferrovia del Cervino",
         "data": "17/07/2026",
         "ora": "10:00",
