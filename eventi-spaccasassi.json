@@ -48,30 +48,5 @@
         "difficolta": "s2",
         "note": "",
         "id": "e8d740899a3c6"
-    },
-    {
-        "titolo": "Artavaggio",
-        "data": "10/07/2026",
-        "ora": "09:00",
-        "localita": "Moggio",
-        "ritrovo": "https://maps.app.goo.gl/H6SGrGthPs3uasEm8",
-        "partecipanti": "Cima",
-        "partecipanti_wa": {
-            "Cima": "3756637920"
-        },
-        "proponente": "Cima",
-        "wa_proponente": "3756637920",
-        "link": "https://www.komoot.com/it-it/tour/3094856821?ref=aso&share_token=aygKBzp85FKt7T0RJ20bD2e5I7eEVIfWnsrY37vgQwHLAsOKGI&t_s=referral&t_cid=route_share",
-        "link_label": "Komoot",
-        "link_icon": "immagini/komoot-logo.jpg",
-        "link2": "",
-        "link2_label": "TRAILMAPS",
-        "link2_icon": "immagini/trailmaps.png",
-        "video": "",
-        "gpx": "gpx/2026-07-09_3094856821_artavaggio_-_bocchetta_regadur_-_val_taleggio_-__avolasio_-_artavaggio_-_la_mersa.gpx",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Piani_di_Artavaggio_-_Cappella.jpg/960px-Piani_di_Artavaggio_-_Cappella.jpg?utm_source=it.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-        "difficolta": "",
-        "note": "Giro con un impianto in partenza da Moggio e 1370+ e 2150- per 36km. In sella ore 9 da qui per prendere impianto https://maps.app.goo.gl/H6SGrGthPs3uasEm8. giro nuovo per me nella sua combinazione ma da poco fatto da un amico affidabile. Una volta arrivati a Rifugio Nicola (1) si fa una sequenza di trail 2-3-4 per poi, purtroppo, fare un trasferimento non corto (5) ma è lo scotto da pagare per risalire a prendere il trail 6 e tornare all'impianto. volendo mi ricordo di un ristorante di mooolto interessante con carne top a Sottochiesa",
-        "id": "e05b470d97ec8"
     }
 ]
