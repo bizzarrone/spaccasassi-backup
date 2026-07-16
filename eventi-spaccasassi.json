@@ -1,14 +1,22 @@
 [
     {
         "titolo": "MADESIMO",
-        "data": "21/06/2026",
-        "ora": "09:45",
+        "data": "18/07/2026",
+        "ora": "09:30",
         "localita": "Madesimo",
         "ritrovo": "",
-        "partecipanti": "Luca B.",
+        "partecipanti": "Luca B., Luca C., Davide C.",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223"
+        },
         "proponente": "Luca B.",
         "wa_proponente": "",
         "link": "",
+        "link_label": "",
+        "link_icon": "",
+        "link2": "",
+        "link2_label": "",
+        "link2_icon": "",
         "video": "",
         "gpx": "",
         "logo": "immagini/madesimo_downhill_7-e1704445802981.webp",
