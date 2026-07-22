@@ -1,5 +1,26 @@
 [
     {
+        "titolo": "Coggiola - Alpe Noveis - Miniere",
+        "data": "23/07/2026",
+        "ora": "09:00",
+        "localita": "Coggiola",
+        "ritrovo": "https://maps.app.goo.gl/QaGArKbpgMqM2fgv9",
+        "partecipanti": "",
+        "proponente": "Tommaso",
+        "wa_proponente": "+393393919739",
+        "link": "https://www.komoot.com/invite-tour/3120033368?code=6yp2n4-OTageN1PvgnHMqiIoFiYBnnXaJzuyeqKOArxFGBbTu0&share_token=ataEhB9WQn8IkGiOAMfMPMqkcsxuhSPDvJwhzt5lYRQ0WR6J54&ref=atp-qr",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "https://youtu.be/qr4QroCmFoE?is=zUyAScP3ppfpBJQu",
+        "gpx": "gpx/Coggiola_Alpe_Noveis_Miniere.gpx",
+        "logo": "immagini/104177.jpg",
+        "difficolta": "s2",
+        "note": "Bellissimo tour da fare nella stagione prima o dopo le zanzare ma da evitare il periodo umido per via delle radici molto numerose. Tecnicamente impegnativo e molto divertente"
+    },
+    {
         "titolo": "Alpe Sacchi",
         "data": "04/07/2026",
         "ora": "08:45",
