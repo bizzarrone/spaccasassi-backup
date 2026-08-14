@@ -1,28 +1,5 @@
 [
     {
-        "titolo": "Spitzhorly",
-        "data": "08/08/2026",
-        "ora": "09:30",
-        "localita": "Simplon Dorf",
-        "ritrovo": "https://maps.app.goo.gl/BBNdyBUpbhB1rvUH6?g_st=aw",
-        "partecipanti": "Elio, Walter, Daniele, Osvaldo",
-        "partecipanti_wa": [],
-        "proponente": "Osvaldo",
-        "wa_proponente": "",
-        "link": "https://www.komoot.it/tour/3157175913?ref=aso&t_s=referral&t_cid=route_share&share_token=adDhKiDFUhOtRRjW8OUQVBnEz7xeP2qba7BNwSBJnMf4pJqVVP",
-        "link_label": "Komoot",
-        "link_icon": "",
-        "link2": "",
-        "link2_label": "",
-        "link2_icon": "",
-        "video": "",
-        "gpx": "",
-        "logo": "",
-        "difficolta": "",
-        "note": "",
-        "id": "e2829fd62879b"
-    },
-    {
         "titolo": "Cistella",
         "data": "01/08/2026",
         "ora": "09:30",
