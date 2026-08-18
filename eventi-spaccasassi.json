@@ -1,5 +1,30 @@
 [
     {
+        "titolo": "Strada Assietta 2gg",
+        "data": "19/08/2026",
+        "ora": "09:59",
+        "localita": "Pourrieres",
+        "ritrovo": "https://maps.app.goo.gl/JpxeoAajazU4xdiw9",
+        "partecipanti": "Luca C., Fabio",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Luca C.",
+        "wa_proponente": "3356330223",
+        "link": "https://www.komoot.com/it-it/tour/3210470664/zoom",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "",
+        "logo": "",
+        "difficolta": "s0",
+        "note": "",
+        "id": "eb18b548289e3"
+    },
+    {
         "titolo": "Domobianca",
         "data": "16/08/2026",
         "ora": "09:40",
