@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "titolo": "Oropa e dintorni",
+        "data": "29/08/2026",
+        "ora": "09:00",
+        "localita": "Favaro",
+        "ritrovo": "https://maps.app.goo.gl/Jk4APbqMmkZRSWyx9",
+        "partecipanti": "",
+        "proponente": "Tommaso",
+        "wa_proponente": "3393919739",
+        "link": "https://www.komoot.it/tour/3163282300?ref=aso&t_s=referral&t_cid=route_share",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "gpx/Oropa_e_dintorni.gpx",
+        "logo": "immagini/1000002683.jpg",
+        "difficolta": "s0",
+        "note": ""
+    }
+]
