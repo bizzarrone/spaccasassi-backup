@@ -1,5 +1,28 @@
 [
     {
+        "titolo": "Rifugio Grand Tournalin",
+        "data": "29/08/2026",
+        "ora": "09:00",
+        "localita": "Brusson",
+        "ritrovo": "",
+        "partecipanti": "Luca B, Luca C, Walter",
+        "partecipanti_wa": [],
+        "proponente": "Luca B.",
+        "wa_proponente": "3479840221",
+        "link": "https://www.komoot.com/it-it/tour/3236930791",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "https://www.itinerari-mtb.it/rifugio-grand-tournalin/",
+        "link2_label": "MTBMAG",
+        "link2_icon": "",
+        "video": "",
+        "gpx": "gpx/grand-tournalin-rifugio-da-brusson-giro-della-val-dayas-per-il-col-de-joux-e-ru-courtod_1c99.gpx",
+        "logo": "immagini/51384876626_80b82ba670_b.jpg",
+        "difficolta": "s2",
+        "note": "",
+        "id": "effaf9921800c"
+    },
+    {
         "titolo": "Lago Goillet – Ex Ferrovia del Cervino giro ad anello con partenza da Breuil-Cervinia",
         "data": "22/08/2026",
         "ora": "9:30",
