@@ -2,11 +2,14 @@
     {
         "titolo": "Rifugio Grand Tournalin",
         "data": "29/08/2026",
-        "ora": "09:00",
+        "ora": "09:30",
         "localita": "Brusson",
         "ritrovo": "",
-        "partecipanti": "Luca B, Luca C, Walter",
-        "partecipanti_wa": [],
+        "partecipanti": "Walter, Ian, Luca C., Luca B., Giuseppe",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223",
+            "Luca B.": "3479840221"
+        },
         "proponente": "Luca B.",
         "wa_proponente": "3479840221",
         "link": "https://www.komoot.com/it-it/tour/3236930791",
@@ -19,7 +22,7 @@
         "gpx": "gpx/grand-tournalin-rifugio-da-brusson-giro-della-val-dayas-per-il-col-de-joux-e-ru-courtod_1c99.gpx",
         "logo": "immagini/51384876626_80b82ba670_b.jpg",
         "difficolta": "s2",
-        "note": "",
+        "note": "Ricordarsi le luci per le gallerie",
         "id": "effaf9921800c"
     },
     {
