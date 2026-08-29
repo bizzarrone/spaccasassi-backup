@@ -26,31 +26,6 @@
         "id": "effaf9921800c"
     },
     {
-        "titolo": "Strada Assietta 2gg",
-        "data": "19/08/2026",
-        "ora": "09:59",
-        "localita": "Pourrieres",
-        "ritrovo": "https://maps.app.goo.gl/JpxeoAajazU4xdiw9",
-        "partecipanti": "Luca C., Fabio",
-        "partecipanti_wa": {
-            "Luca C.": "3356330223"
-        },
-        "proponente": "Luca C.",
-        "wa_proponente": "3356330223",
-        "link": "https://www.komoot.com/it-it/tour/3210470664/zoom",
-        "link_label": "Komoot",
-        "link_icon": "immagini/komoot-logo.jpg",
-        "link2": "https://it.wikiloc.com/percorsi-mountain-bike/giro-ad-anello-dellassietta-112862659",
-        "link2_label": "wikiloks",
-        "link2_icon": "🚴‍♀️",
-        "video": "",
-        "gpx": "",
-        "logo": "immagini/1823bc6b531.webp",
-        "difficolta": "s0",
-        "note": "notte al rifugio Assietta",
-        "id": "eb18b548289e3"
-    },
-    {
         "titolo": "Domobianca",
         "data": "16/08/2026",
         "ora": "09:40",
