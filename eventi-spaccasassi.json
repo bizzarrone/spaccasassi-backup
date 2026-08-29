@@ -24,30 +24,5 @@
         "difficolta": "s2",
         "note": "Ricordarsi le luci per le gallerie",
         "id": "effaf9921800c"
-    },
-    {
-        "titolo": "Domobianca",
-        "data": "16/08/2026",
-        "ora": "09:40",
-        "localita": "Domodossola",
-        "ritrovo": "https://maps.app.goo.gl/Kbe4n9ammgQ7TBPC6",
-        "partecipanti": "Luca C., Davide C, Ian",
-        "partecipanti_wa": {
-            "Luca C.": "3356330223"
-        },
-        "proponente": "Luca C.",
-        "wa_proponente": "3356330223",
-        "link": "",
-        "link_label": "Komoot",
-        "link_icon": "immagini/komoot-logo.jpg",
-        "link2": "https://www.domobianca365.it/bikepark/",
-        "link2_label": "TRAILMAPS",
-        "link2_icon": "immagini/trailmaps.png",
-        "video": "",
-        "gpx": "",
-        "logo": "immagini/2026-08-15_22-07.png",
-        "difficolta": "s3",
-        "note": "",
-        "id": "ed89bad01e9c5"
     }
 ]
