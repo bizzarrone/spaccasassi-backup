@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "titolo": "Val Veddasca",
+        "data": "05/09/2026",
+        "ora": "09:00",
+        "localita": "Maccagno",
+        "ritrovo": "https://maps.app.goo.gl/PyteaQEUDqxXtPgc8",
+        "partecipanti": "",
+        "partecipanti_wa": [],
+        "proponente": "Luca C.",
+        "wa_proponente": "3356330223",
+        "link": "https://www.komoot.com/tour/3253744841",
+        "link_label": "Komoot",
+        "link_icon": "",
+        "link2": "https://www.itinerari-mtb.it/val-veddasca/",
+        "link2_label": "Itinerari MTB",
+        "link2_icon": "",
+        "video": "",
+        "gpx": "gpx/6a994c1838f131.68117654_Val_Veddasca.gpx",
+        "logo": "immagini/6a994c183a3ac1.75594154_Cangili-768x576.jpg",
+        "difficolta": "s2",
+        "note": "tratto a mano: 25 minuti, di cui una ventina lungo la mulattiera per Musignano (evitabile se si decide di proseguire su asfalto seguendo le indicazioni per il Lago Delio) e non più di 5 minuti lungo il sentiero in discesa da Lozzo per la località Ponte di Piero\r\nsalita: a tratti impegnativo /faticoso il sentiero Garabiolo-Musignano, poi la salita alla Forcora si svolge su facile asfalto (evitare domenica per potenziale intenso traffico) con pendenze varie tra il 5 ed il 12% anche se va segnalato che pendenze superiori al 10% le si ritrova solo per un breve tratto di circa 1 km dopo il Lago Delio.\r\ndiscesa: quasi totalmente in fuoristrada con passaggi tecnici ed a tratti complicati lungo il sentiero Lozzo – Ponte di Piero",
+        "id": "e6df1ce5c5afd"
+    }
+]
