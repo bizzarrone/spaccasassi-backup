@@ -1,14 +1,43 @@
 [
     {
+        "titolo": "San Pellegrino",
+        "data": "06/09/2026",
+        "ora": "09:00",
+        "localita": "San Pellegrino Terme",
+        "ritrovo": "https://maps.app.goo.gl/rM4E2D3qBAVc4dfu5?g_st=awb",
+        "partecipanti": "Andrea B., Luca C.",
+        "partecipanti_wa": {
+            "Andrea B.": "3479789934",
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Andrea B.",
+        "wa_proponente": "3479789934",
+        "link": "https://www.komoot.com/tour/3255835766",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "gpx/2026-09-04_3255835766_Culmine_di_San_Pietro_____Piani_di_Artavaggio_giro_ad_anello_con_partenza_da_San_Giovanni_Bianco.gpx",
+        "logo": "immagini/0.webp",
+        "difficolta": "s3",
+        "note": "Traccia indicativa, decideremo al momento quale fare. Indicativamente 40 km per 1300 mt",
+        "id": "ede3087e412de"
+    },
+    {
         "titolo": "Val Veddasca",
         "data": "05/09/2026",
         "ora": "09:00",
         "localita": "Maccagno",
         "ritrovo": "https://maps.app.goo.gl/PyteaQEUDqxXtPgc8",
-        "partecipanti": "",
-        "partecipanti_wa": [],
-        "proponente": "Luca C.",
-        "wa_proponente": "3356330223",
+        "partecipanti": "Michele M, Gaiuccia, Ian, Elio",
+        "partecipanti_wa": {
+            "Luca C.": "",
+            "Michele M": "3289740403"
+        },
+        "proponente": "",
+        "wa_proponente": "",
         "link": "https://www.komoot.com/tour/3253744841",
         "link_label": "Komoot",
         "link_icon": "",
