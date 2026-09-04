@@ -1,5 +1,26 @@
 [
     {
+        "titolo": "Monte Briasco",
+        "data": "06/09/2026",
+        "ora": "08:45",
+        "localita": "Quarona",
+        "ritrovo": "https://goo.gl/maps/MxyPuCWjXtk7ZUbc7",
+        "partecipanti": "",
+        "proponente": "Tommaso",
+        "wa_proponente": "3393919739",
+        "link": "",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "",
+        "logo": "immagini/1000019279.jpg",
+        "difficolta": "s2",
+        "note": "Giro di circa 30km per 1000d+ tutto pedalabile tiranno forse gli Ultimi 100 metri alla vetta.\r\nPercorso misto asfalto, forestali, single track. \r\nBuon divertimento."
+    },
+    {
         "titolo": "Oropa e dintorni",
         "data": "29/08/2026",
         "ora": "08:30",
