@@ -1,12 +1,39 @@
 [
     {
+        "titolo": "Domobianca",
+        "data": "13/09/2026",
+        "ora": "09:00",
+        "localita": "Domodossola",
+        "ritrovo": "https://maps.app.goo.gl/Kbe4n9ammgQ7TBPC6",
+        "partecipanti": "",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Valentino",
+        "wa_proponente": "",
+        "link": "",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "https://www.domobianca365.it/bikepark/",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "",
+        "logo": "immagini/2026-08-15_22-07.png",
+        "difficolta": "s3",
+        "note": "",
+        "id": "ed89bad01e9c5"
+    },
+    {
         "titolo": "Bormio 3000 Santa caterina",
         "data": "19/09/2026",
         "ora": "09:00",
         "localita": "Bormio (So)",
         "ritrovo": "",
-        "partecipanti": "",
-        "partecipanti_wa": [],
+        "partecipanti": "Walter, Filippo",
+        "partecipanti_wa": {
+            "Filippo": "3475403045"
+        },
         "proponente": "Walter",
         "wa_proponente": "",
         "link": "https://www.bormiobike.it/it/percorsi/santa-caterina-bormio-3000/",
