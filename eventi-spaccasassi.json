@@ -1,5 +1,28 @@
 [
     {
+        "titolo": "Bormio 3000 Santa caterina",
+        "data": "12/09/2026",
+        "ora": "09:00",
+        "localita": "Bormio (So)",
+        "ritrovo": "",
+        "partecipanti": "",
+        "partecipanti_wa": [],
+        "proponente": "Walter",
+        "wa_proponente": "3472243062",
+        "link": "https://www.bormiobike.it/it/percorsi/santa-caterina-bormio-3000/",
+        "link_label": "Bormiobike.it",
+        "link_icon": "",
+        "link2": "",
+        "link2_label": "",
+        "link2_icon": "",
+        "video": "",
+        "gpx": "gpx/6aa1964d1e1855.62639294_santa-caterina-bormio-3000.gpx",
+        "logo": "",
+        "difficolta": "s3",
+        "note": "Giro con utilizzo di impianti di risalita. La proposta è quella di partire il venerdi pomeriggio, pernottare a Bormio e fare il giro il sabato per poi fare rientro a casa.",
+        "id": "edf25228be6d8"
+    },
+    {
         "titolo": "Dossena & Serina",
         "data": "06/09/2026",
         "ora": "09:00",
@@ -31,7 +54,7 @@
         "ora": "09:00",
         "localita": "Maccagno",
         "ritrovo": "https://maps.app.goo.gl/PyteaQEUDqxXtPgc8",
-        "partecipanti": "Michele M, Gaiuccia, Ian, Elio",
+        "partecipanti": "Michele M, Gaiuccia, Ian, Elio, Walter",
         "partecipanti_wa": {
             "Luca C.": "",
             "Michele M": "3289740403"
