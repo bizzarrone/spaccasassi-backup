@@ -1,5 +1,16 @@
 [
     {
+        "data": "8/3/2026",
+        "ora": "9:00",
+        "titolo": "Rive Rosse",
+        "localita": "Brusnengo (BI)",
+        "partecipanti": "Tommaso",
+        "ritrovo": "https://maps.app.goo.gl/ti8EQTTJCr5ZTYk38",
+        "gpx": "assente",
+        "_count": 1,
+        "id": "e094d3f32adea"
+    },
+    {
         "titolo": "Santa caterina Bormio",
         "data": "19/09/2026",
         "ora": "09:00",
