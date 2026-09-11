@@ -1,5 +1,28 @@
 [
     {
+        "titolo": "Santa caterina Bormio",
+        "data": "19/09/2026",
+        "ora": "09:00",
+        "localita": "Bormio",
+        "ritrovo": "",
+        "partecipanti": "",
+        "partecipanti_wa": [],
+        "proponente": "Elio",
+        "wa_proponente": "3384072067",
+        "link": "https://www.bormiobike.it/it/percorsi/santa-caterina-bormio-3000/",
+        "link_label": "",
+        "link_icon": "",
+        "link2": "",
+        "link2_label": "",
+        "link2_icon": "",
+        "video": "",
+        "gpx": "gpx/6aa296a1c852c9.43343889_santa-caterina-bormio-3000.gpx",
+        "logo": "",
+        "difficolta": "",
+        "note": "",
+        "id": "e381c428bbea1"
+    },
+    {
         "titolo": "Domobianca",
         "data": "13/09/2026",
         "ora": "09:00",
@@ -30,7 +53,7 @@
         "ora": "09:00",
         "localita": "Bormio (So)",
         "ritrovo": "",
-        "partecipanti": "Walter, Filippo",
+        "partecipanti": "Walter, Filippo, Elio",
         "partecipanti_wa": {
             "Filippo": "3475403045"
         },
@@ -55,7 +78,7 @@
         "ora": "09:00",
         "localita": "Bormio (So)",
         "ritrovo": "",
-        "partecipanti": "",
+        "partecipanti": "Elio",
         "partecipanti_wa": [],
         "proponente": "Walter",
         "wa_proponente": "3472243062",
