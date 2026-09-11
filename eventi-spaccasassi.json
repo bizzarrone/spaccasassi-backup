@@ -1,13 +1,29 @@
 [
     {
-        "data": "8/3/2026",
-        "ora": "9:00",
         "titolo": "Rive Rosse",
+        "data": "12/09/2026",
+        "ora": "9:00",
         "localita": "Brusnengo (BI)",
-        "partecipanti": "Tommaso",
         "ritrovo": "https://maps.app.goo.gl/ti8EQTTJCr5ZTYk38",
+        "partecipanti": "Elio, Walter, Luca C.",
+        "partecipanti_wa": {
+            "Elio": "3384072067",
+            "Walter": "3472243062",
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Walter",
+        "wa_proponente": "3472243062",
+        "link": "",
+        "link_label": "",
+        "link_icon": "",
+        "link2": "",
+        "link2_label": "",
+        "link2_icon": "",
+        "video": "",
         "gpx": "assente",
-        "_count": 1,
+        "logo": "",
+        "difficolta": "",
+        "note": "",
         "id": "e094d3f32adea"
     },
     {
