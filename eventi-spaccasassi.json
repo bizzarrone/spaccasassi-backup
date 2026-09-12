@@ -1,11 +1,11 @@
 [
     {
         "titolo": "Como Park",
-        "data": "11/07/2026",
-        "ora": "10:30",
+        "data": "13/09/2026",
+        "ora": "09:00",
         "localita": "Cucciago",
         "ritrovo": "https://maps.app.goo.gl/7LUMze8tYtoUNDHX9?g_st=iw",
-        "partecipanti": "Luca C., Andrea, Gio, Davide",
+        "partecipanti": "Luca C.",
         "partecipanti_wa": {
             "Luca C.": "393356330223"
         },
@@ -17,7 +17,7 @@
         "link2": "",
         "link2_label": "",
         "link2_icon": "",
-        "video": "https://www.youtube.com/watch?v=EU8jxsH28Q8",
+        "video": "",
         "gpx": "gpx/bike-park-cucciago-revisited.gpx",
         "logo": "immagini/cucciago_small.png",
         "difficolta": "s2",
