@@ -75,28 +75,5 @@
         "difficolta": "s3",
         "note": "Il giro prevede l'utilizzo di impianti di risalita. Partenza Venerdì tardo pomeriggio, pernottamento a Bormio. Sabato girone rientro a casa in serata",
         "id": "e4bcb4199baff"
-    },
-    {
-        "titolo": "Bormio 3000 Santa caterina",
-        "data": "12/09/2026",
-        "ora": "09:00",
-        "localita": "Bormio (So)",
-        "ritrovo": "",
-        "partecipanti": "Elio",
-        "partecipanti_wa": [],
-        "proponente": "Walter",
-        "wa_proponente": "3472243062",
-        "link": "https://www.bormiobike.it/it/percorsi/santa-caterina-bormio-3000/",
-        "link_label": "Bormiobike.it",
-        "link_icon": "",
-        "link2": "",
-        "link2_label": "",
-        "link2_icon": "",
-        "video": "",
-        "gpx": "gpx/6aa1964d1e1855.62639294_santa-caterina-bormio-3000.gpx",
-        "logo": "",
-        "difficolta": "s3",
-        "note": "Giro con utilizzo di impianti di risalita. La proposta è quella di partire il venerdi pomeriggio, pernottare a Bormio e fare il giro il sabato per poi fare rientro a casa.",
-        "id": "edf25228be6d8"
     }
 ]
