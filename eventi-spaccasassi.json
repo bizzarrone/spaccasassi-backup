@@ -1,30 +1,5 @@
 [
     {
-        "titolo": "Como Park",
-        "data": "13/09/2026",
-        "ora": "09:00",
-        "localita": "Cucciago",
-        "ritrovo": "https://maps.app.goo.gl/7LUMze8tYtoUNDHX9?g_st=iw",
-        "partecipanti": "Luca C.",
-        "partecipanti_wa": {
-            "Luca C.": "393356330223"
-        },
-        "proponente": "Luca C.",
-        "wa_proponente": "3356330223",
-        "link": "",
-        "link_label": "",
-        "link_icon": "",
-        "link2": "",
-        "link2_label": "",
-        "link2_icon": "",
-        "video": "",
-        "gpx": "gpx/bike-park-cucciago-revisited.gpx",
-        "logo": "immagini/cucciago_small.png",
-        "difficolta": "s2",
-        "note": "",
-        "id": "e8d740899a3c6"
-    },
-    {
         "titolo": "Rive Rosse",
         "data": "12/09/2026",
         "ora": "9:00",
@@ -57,9 +32,10 @@
         "ora": "09:00",
         "localita": "Bormio (So)",
         "ritrovo": "",
-        "partecipanti": "Walter, Filippo, Elio",
+        "partecipanti": "Walter, Filippo, Elio, Luca C.",
         "partecipanti_wa": {
-            "Filippo": "3475403045"
+            "Filippo": "3475403045",
+            "Luca C.": "3356330223"
         },
         "proponente": "Walter",
         "wa_proponente": "",
