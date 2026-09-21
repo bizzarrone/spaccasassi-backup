@@ -23,6 +23,31 @@
         "id": "e7bb58cdb468e"
     },
     {
+        "titolo": "Gattinara (copia)",
+        "data": "19/09/2026",
+        "ora": "09:30",
+        "localita": "Gattinara",
+        "ritrovo": "https://maps.app.goo.gl/nmgzDozqp4yq5TGm9",
+        "partecipanti": "Luca C., Matteo",
+        "partecipanti_wa": {
+            "Luca C.": "3356330223"
+        },
+        "proponente": "Matteo",
+        "wa_proponente": "",
+        "link": "",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "",
+        "logo": "",
+        "difficolta": "s3",
+        "note": "",
+        "id": "e8b5c8747c3d7"
+    },
+    {
         "titolo": "Gattinara",
         "data": "19/09/2026",
         "ora": "09:30",
