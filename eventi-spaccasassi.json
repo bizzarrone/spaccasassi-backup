@@ -1,5 +1,28 @@
 [
     {
+        "titolo": "Bike Night",
+        "data": "03/10/2026",
+        "ora": "00:00",
+        "localita": "Milano",
+        "ritrovo": "Giardini Indro Montanelli",
+        "partecipanti": "",
+        "partecipanti_wa": [],
+        "proponente": "",
+        "wa_proponente": "",
+        "link": "",
+        "link_label": "Komoot",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "https://witoor.com/bike-night/bike-night-milano-lago/",
+        "link2_label": "Sito",
+        "link2_icon": "🌐",
+        "video": "",
+        "gpx": "",
+        "logo": "immagini/2026-09-21_12-05.png",
+        "difficolta": "s0",
+        "note": "Evento che si svolge la notte, sino all'alba, da Milano ad Arona.\r\nIl percorso: Milano, piazza Duomo, il Naviglio Grande, il Ticino, il Lago Maggiore e Arona\r\n\r\n100 km in bici, 3 ristori, colazione e doccia",
+        "id": "e9237b858e696"
+    },
+    {
         "titolo": "Muflony Day",
         "data": "18/10/2026",
         "ora": "09:30",
