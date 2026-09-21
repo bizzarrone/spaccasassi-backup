@@ -1,5 +1,16 @@
 [
     {
+        "data": "8/3/2026",
+        "ora": "9:00",
+        "titolo": "Colazza: giro panoramico",
+        "localita": "Colazza (NO)",
+        "partecipanti": "vari",
+        "ritrovo": "https://maps.app.goo.gl/XgGedu3zkQq8tTyY6",
+        "gpx": "assente",
+        "_count": 1,
+        "id": "e54861b2b9f40"
+    },
+    {
         "titolo": "Bike Night",
         "data": "03/10/2026",
         "ora": "00:00",
