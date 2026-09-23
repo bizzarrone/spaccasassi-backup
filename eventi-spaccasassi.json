@@ -1,5 +1,28 @@
 [
     {
+        "titolo": "HOME ESCURSIONI VAL DIVEDRO E VEGLIA Escursione da Ciamporino - Veglia",
+        "data": "27/09/2026",
+        "ora": "09:00",
+        "localita": "Ciamporino",
+        "ritrovo": "",
+        "partecipanti": "Luca, Elio, Fabio",
+        "partecipanti_wa": [],
+        "proponente": "Elio",
+        "wa_proponente": "3384072067",
+        "link": "https://www.opentrek.it/escursioni/val-divedro-veglia/ciamporino-e-alpe-veglia.html",
+        "link_label": "opentrek",
+        "link_icon": "immagini/komoot-logo.jpg",
+        "link2": "",
+        "link2_label": "TRAILMAPS",
+        "link2_icon": "immagini/trailmaps.png",
+        "video": "",
+        "gpx": "gpx/ciamporino-veglia.gpx",
+        "logo": "immagini/2026-09-23_17-05.png",
+        "difficolta": "s2",
+        "note": "piccola parte ferrata",
+        "id": "e47bb4e9c9edb"
+    },
+    {
         "titolo": "Festa dei Lupi del Cornaggia",
         "data": "03/10/2026",
         "ora": "9:00",
